@@ -18,6 +18,8 @@ The designs were created to the following widths:
 - Family: [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
 - Weights: 500, 800 */
 
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;800&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -34,4 +36,8 @@ The designs were created to the following widths:
     --grayishBlue:  hsl(219, 14%, 63%);
     --darkGrayishBlue: hsl(219, 12%, 42%);
     --darkBlue: hsl(224, 21%, 14%);
+}
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
 }
