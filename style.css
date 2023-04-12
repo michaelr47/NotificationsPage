@@ -24,6 +24,7 @@ The designs were created to the following widths:
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 :root {
@@ -40,4 +41,17 @@ The designs were created to the following widths:
 
 body {
     font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: var(--veryLightGrayishBlue);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    max-width: 50rem;;   
+    height: 50rem; 
+    margin: 1rem 0px;
+    padding: 2rem;
+    background-color: var(--white);
 }
