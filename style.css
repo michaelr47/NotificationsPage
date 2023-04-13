@@ -49,9 +49,13 @@ body {
 }
 
 .container {
-    max-width: 50rem;;   
+    max-width: 50rem; 
     height: 50rem; 
-    margin: 1rem 0px;
+    margin: 2rem 0px;
     padding: 2rem;
     background-color: var(--white);
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
