@@ -50,12 +50,17 @@ body {
 
 .container {
     max-width: 50rem; 
-    height: 50rem; 
-    margin: 2rem 0px;
-    padding: 2rem;
+    height: 45rem; 
+    margin: 1rem 0px;
+    padding: 1.5rem;
     background-color: var(--white);
     border-radius: 1rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
 }
