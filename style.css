@@ -89,3 +89,8 @@ header {
 #markAllRead {
     color: var(--darkGrayishBlue);
 }
+
+.notifications {
+    background-color: var(--blue);
+    height: 4rem;
+}
