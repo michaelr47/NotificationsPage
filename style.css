@@ -85,3 +85,7 @@ header {
     text-align: center;
    
 }
+
+#markAllRead {
+    color: var(--darkGrayishBlue);
+}
