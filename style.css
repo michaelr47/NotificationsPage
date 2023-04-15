@@ -93,6 +93,8 @@ header {
 }
 
 .notifications {
-    background-color: var(--blue);
+    display: flex;
+    align-items: center;
+    background-color: var(--veryLightGrayishBlue);
     height: 4rem;
 }
