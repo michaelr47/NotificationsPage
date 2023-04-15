@@ -98,3 +98,7 @@ header {
     background-color: var(--veryLightGrayishBlue);
     height: 4rem;
 }
+
+.notificationImages {
+    width: 2.5rem;
+}
