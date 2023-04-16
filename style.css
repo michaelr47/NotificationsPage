@@ -104,3 +104,7 @@ header {
     width: 2.5rem;
     margin: .850rem;
 }
+
+.bold-names {
+    font-weight: 800;
+}
