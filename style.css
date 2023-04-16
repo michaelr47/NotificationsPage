@@ -96,9 +96,11 @@ header {
     display: flex;
     align-items: center;
     background-color: var(--veryLightGrayishBlue);
-    height: 4rem;
+    height: 5rem;
+    padding: 1rem;
 }
 
 .notificationImages {
     width: 2.5rem;
+    margin: .850rem;
 }
