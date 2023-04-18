@@ -95,7 +95,6 @@ header {
 .notifications {
     display: flex;
     align-items: center;
-    background-color: var(--veryLightGrayishBlue);
     height: 5rem;
     padding: 1rem;
 }
@@ -118,9 +117,13 @@ header {
     flex-direction: column;
     
 }
-/* .messageContent {
+.messageContent {
     display: block;
     margin: 14px 0px 0px;
     border: 1px solid var(--grayishBlue);
     padding: .875rem;
-} */
+}
+
+.notifications:nth-child(-n + 4) {
+    background-color: var(--veryLightGrayishBlue);
+}
