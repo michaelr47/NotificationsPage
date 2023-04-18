@@ -128,3 +128,14 @@ header {
 .notifications:nth-child(-n + 4) {
     background-color: var(--veryLightGrayishBlue);
 }
+
+.dot {
+    width: 10px;
+    height: 10px;
+    background-color: var(--red);
+    margin: 10px;
+    border-radius: 50%;
+}
+.darkBlue {
+    color: var(--blue);
+}
