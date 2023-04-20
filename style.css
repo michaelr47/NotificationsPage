@@ -144,3 +144,4 @@ header {
 .darkBlue { color: var(--blue); }
 .darkGrayBlue { color: var(--darkGrayishBlue); }
 .lightGrayBlue { color: var(--grayishBlue); }
+.leftMargin { margin-left: auto; }
