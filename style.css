@@ -135,10 +135,10 @@ header {
 }
 
 .dot {
-    width: 10px;
-    height: 10px;
+    width: 8px;
+    height: 8px;
     background-color: var(--red);
-    margin: 10px;
+    margin: 0px 10px 1rem;
     border-radius: 50%;
 }
 .darkBlue { color: var(--blue); }
