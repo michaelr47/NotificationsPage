@@ -17,6 +17,8 @@ The designs were created to the following widths:
 
 - Family: [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
 - Weights: 500, 800 */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
 
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;800&display=swap');
 
@@ -76,6 +78,11 @@ header {
     font-size: 1.3rem;
     font-weight: 800;
     
+}
+
+.readLink {
+    text-decoration: none;
+    color: inherit;
 }
 
 .boxNotif {
