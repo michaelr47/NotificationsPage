@@ -52,7 +52,8 @@ body {
 
 .container {
     max-width: 45rem; 
-    /* min-width: 23.5rem; */
+    gap: .400rem;
+
     height: 50rem; 
     margin: 2rem 0px;
     padding: 1.5rem 2rem;
