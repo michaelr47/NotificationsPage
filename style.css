@@ -166,6 +166,10 @@ header {
   margin-left: auto;
 }
 
+.blueOnHover:hover {
+  color: var(--blue);
+  cursor: pointer;
+}
 @media only screen and (max-width: 550px) {
     .container {
         height: 55rem;
