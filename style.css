@@ -165,7 +165,9 @@ header {
 .leftMargin {
   margin-left: auto;
 }
-
+.pointer {
+  cursor: pointer;
+}
 .blueOnHover:hover {
   color: var(--blue);
   cursor: pointer;
