@@ -138,8 +138,11 @@ header {
 .messageContent {
   display: block;
   margin: 10px 0px 0px;
-  border: 1px solid var(--grayishBlue);
+  border: .5px solid var(--grayishBlue);
   padding: 0.875rem;
+}
+.messageContent:hover {
+  background-color: var(--lightGrayishBlue2);
 }
 
 .notifications:nth-child(-n + 4) {
