@@ -7,7 +7,7 @@ const readMessages = () => {
         notifs.forEach(notif => {
             if (notif.classList.contains('unread')) {
                 notif.style.backgroundColor = 'white';
-                
+                redDotNotif.style.display = 'none';
             }
           
         });
