@@ -13,7 +13,9 @@ const readMessages = () => {
     numberNotification();
     for (let i = 0; i < notifs.length; i++) {
       notifs[i].style.backgroundColor = "white";
-      redDotNotif[i].style.display = "none";
+      if (redDotNotif[i]) {
+        redDotNotif[i].style.display = "none";
+      }
     }
   
   });
