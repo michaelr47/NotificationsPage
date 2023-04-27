@@ -131,10 +131,10 @@ header {
   height: 12rem;
 }
 
-/* .rizkyNotif {
-    display: flex; 
-    flex-direction: column;
-} */
+#chessImg:hover {
+  outline: 2px solid var(--lightGrayishBlue2);
+  border-radius: 5px;
+}
 .messageContent {
   display: block;
   margin: 10px 0px 0px;
