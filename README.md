@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repo](https://github.com/michaelr47/NotificationsPage)
-- Live Site URL: [Notification Page](https://your-live-site-url.com)
+- Live Site URL: [Notification Page](https://michaelr47.github.io/NotificationsPage/)
 
 ## My process
 
